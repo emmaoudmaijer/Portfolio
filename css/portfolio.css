@@ -1,0 +1,13 @@
+.fotovanmezelf {
+    transform: rotate(270deg);
+}
+
+.foto1 {
+    transform: rotate(270deg);
+    width: 130px;
+    height: 110px;
+}
+
+h6 {
+    color: grey;
+}
